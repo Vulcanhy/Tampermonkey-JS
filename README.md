@@ -3,6 +3,8 @@ Collect useful mk js...
 
 ## 脚本下载网站: 
   https://greasyfork.org/zh-CN </br>
+  https://www.userscript.zone/?utm_source=tm.net&utm_medium=scripts&utm_campaign=0 </br>
+  https://openuserjs.org/ </br>
   https://gist.github.com/search?l=JavaScript&o=desc&q=%22%3D%3DUserScript%3D%3D%22&s=updated
 
 ## 脚本说明
